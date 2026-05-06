@@ -1,0 +1,12 @@
+streamlit
+numpy
+opencv-python
+tensorflow
+keras
+pymongo
+pandas
+matplotlib
+reportlab
+scikit-image
+Pillow
+h5py
